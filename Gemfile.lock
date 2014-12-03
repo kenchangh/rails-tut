@@ -136,6 +136,7 @@ DEPENDENCIES
   pg (= 0.17.1)
   rails (= 4.0.8)
   rails_12factor (= 0.0.2)
+  rake (= 10.4.1)
   sass-rails (~> 4.0.2)
   sdoc
   spring (= 1.1.3)
